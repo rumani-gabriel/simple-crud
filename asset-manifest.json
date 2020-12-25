@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/simple-crud/static/js/main.3a185cb0.chunk.js",
+    "main.js.map": "/simple-crud/static/js/main.3a185cb0.chunk.js.map",
+    "runtime-main.js": "/simple-crud/static/js/runtime-main.ade673b0.js",
+    "runtime-main.js.map": "/simple-crud/static/js/runtime-main.ade673b0.js.map",
+    "static/css/2.267ffeee.chunk.css": "/simple-crud/static/css/2.267ffeee.chunk.css",
+    "static/js/2.b009fed4.chunk.js": "/simple-crud/static/js/2.b009fed4.chunk.js",
+    "static/js/2.b009fed4.chunk.js.map": "/simple-crud/static/js/2.b009fed4.chunk.js.map",
+    "static/js/3.df73d123.chunk.js": "/simple-crud/static/js/3.df73d123.chunk.js",
+    "static/js/3.df73d123.chunk.js.map": "/simple-crud/static/js/3.df73d123.chunk.js.map",
+    "index.html": "/simple-crud/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/simple-crud/static/css/2.267ffeee.chunk.css.map",
+    "static/js/2.b009fed4.chunk.js.LICENSE.txt": "/simple-crud/static/js/2.b009fed4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ade673b0.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.b009fed4.chunk.js",
+    "static/js/main.3a185cb0.chunk.js"
+  ]
+}
